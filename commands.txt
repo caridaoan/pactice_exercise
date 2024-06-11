@@ -42,5 +42,11 @@
 	- this displays all the the commits that were made
 
 * got log --oneline
-	- condensed version of git log
+	- condensed/shorten version of git log
+
+* git config -h
+* git help config
+	- explore other git commands
+
+
 
