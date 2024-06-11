@@ -17,10 +17,11 @@
 	> Local Repository - version of the repository that is stored on your own computer
 	> Remote Repository - version of the repository that is stored on a server or cloud-base plaform [GitHub]
 
-* git init - initialize a folder
+* git init 
+	- initialize a folder
 
-* git config --global user.name "<username>"
-* git config --global user.emial "<email address>"
+* git config --global user.name "username"
+* git config --global user.emial "email address"
 		> sets the user's username and email address
 
 * git config --global user.name
@@ -28,3 +29,13 @@
 		- to check if username and email were successfully connected
 
 * git status - displays the current status of you file/folder
+
+* git add . 
+	- add all modified files in your current directory to the staging area
+* git add "<filename>" 
+	- add specific files to the staging area
+
+* git commit -m "message" 
+	- saves the changes that you've made to the files in the stagin area to the respository. The "message" describes what changes were made in this commit.
+
+
