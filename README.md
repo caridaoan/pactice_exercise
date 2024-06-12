@@ -1,3 +1,3 @@
-# pactice_exercise - testing
+# practice_exercise - testing
 Practice exercise for Git
 Testing
